@@ -40,7 +40,7 @@ ul li a{
     color: #1e1e1e;
     padding: 0 20px;
 }
-ul li img{
+ul li a img{
     display: flex;
     display: inline-block;
     width: 50px;
